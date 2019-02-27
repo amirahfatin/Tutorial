@@ -23,7 +23,7 @@ export default class App extends Component<Props> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>Amirah Fatin binti Zahari - 1527716</Text>
-        <Text style={styles.instructions}>To get started, edit App.js</Text>
+        <Text style={styles.instructions}>Second student - Nurul Ainna Syuhada Binti Norazmi 1520592</Text>
         <Text style={styles.instructions}>{instructions}</Text>
       </View>
     );
